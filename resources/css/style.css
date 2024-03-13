@@ -225,19 +225,19 @@ section h2 {
 }
 
 #figure1 {
-  background: url(dollar.jpg);
+  background-image: url(resources/img/dollar.jpg);
   background-size: cover;
   background-position: 100%;
 }
 
 #figure2 {
-  background: url(investments.jpg);
+  background: url(/resources/img/investments.jpg);
   background-size: cover;
   background-position: 100%;
 }
 
 #figure3 {
-  background: url(crypto.jpg);
+  background-image: url(resources/img/crypto.jpg);
   background-size: cover;
 }
 
